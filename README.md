@@ -1,4 +1,6 @@
- */
+ # How to use HillbillyTemplate in your project
+ 
+ ```javascript
 /**
  * @description Customize SharePoint 2013/2016/O365 classic forms
  * @type jQuery
@@ -31,3 +33,4 @@
  *
  * 
  */
+ ```
